@@ -1,3 +1,5 @@
+// jshint esversion: 6
+
 const get = function(id) {
 	return document.getElementById(id);
 };
